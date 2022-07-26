@@ -6,3 +6,9 @@
   please don't remove the credits ❤️
 
 </h2>
+
+<a id="content"></a>🧬 Content
+
+- [🌌・Discord](https://discord.gg/collapsy)
+
+## <a id="features"></a>🔰 〢 Features

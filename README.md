@@ -16,7 +16,7 @@
 
 1. Abra o divs.js e siga abaixo:
 2. Install [nodejs](https://nodejs.org/en/),
-3. Open [divs.js] e bote id do servidor que divulgara e id do canal que vai enviar o gatilho
+3. Open [divs.js](https://github.com/murilindao/selfbot-div/blob/main/divs.js) e bote id do servidor que divulgara e id do canal que vai enviar o gatilho
 4. Após isso, mude os arquivos .txt e seja feliz :)
 
 <p align="center"><a href=#top>Back to Top</a></p>
